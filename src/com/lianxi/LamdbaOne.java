@@ -4,9 +4,7 @@ package com.lianxi;
 public class LamdbaOne {
 
     public static void main(String[] args) {
-        System.out.println("...................");
-        System.out.println("wrtysdfg");
-        System.out.println("[][][]");
+
         System.out.println("aaa");
     }
 
