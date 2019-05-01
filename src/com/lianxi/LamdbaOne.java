@@ -3,6 +3,9 @@ package com.lianxi;
 
 public class LamdbaOne {
 
+    public static void main(String[] args) {
+        System.out.println("...................");
+    }
 
    /* 基础题
 练习一：线程池概念
