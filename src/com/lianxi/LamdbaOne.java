@@ -7,6 +7,7 @@ public class LamdbaOne {
         System.out.println("...................");
         System.out.println("wrtysdfg");
         System.out.println("[][][]");
+        System.out.println("aaa");
     }
 
    /* 基础题
